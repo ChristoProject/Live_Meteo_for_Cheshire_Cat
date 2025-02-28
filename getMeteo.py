@@ -14,7 +14,7 @@ def getWeather(location, cat)-> dict:
         "q": location,
         "units": "metric",
         "lang": "it",
-        "appid": "8ca86f8c2555dd834acea58d05ca01c3"
+        "appid": ""
     }
     r = requests.get(url, params=payload)
     output = r.json()
