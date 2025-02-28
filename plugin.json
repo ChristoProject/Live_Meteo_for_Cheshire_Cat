@@ -1,0 +1,10 @@
+{
+    "name": "Live Meteo",
+    "description": "Retrieve real time weather information about the requested city from the user. Ask soemthing like: 'What's the weather in Roma,it?'",
+    "author_name": "Andrea Pesce",
+    "author_url": "https://github.com/ChristoProject",
+    "plugin_url": "https://github.com/ChristoProject/Live_Meteo_for_Cheshire_Cat.git",
+    "tags": ["plugins", "weather"],
+    "thumb": "",
+    "version": "2.0.0"
+}
